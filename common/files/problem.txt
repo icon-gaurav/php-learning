@@ -1,0 +1,2 @@
+Hello this is Gaurav Kumar 
+This is my first text document handling in php after a long struggle;

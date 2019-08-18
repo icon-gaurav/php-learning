@@ -1,0 +1,450 @@
+actor_id : 1
+0 : 1
+first_name : PENELOPE
+1 : PENELOPE
+last_name : GUINESS
+2 : GUINESS
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 2
+0 : 2
+first_name : NICK
+1 : NICK
+last_name : WAHLBERG
+2 : WAHLBERG
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 3
+0 : 3
+first_name : ED
+1 : ED
+last_name : CHASE
+2 : CHASE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 4
+0 : 4
+first_name : JENNIFER
+1 : JENNIFER
+last_name : DAVIS
+2 : DAVIS
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 5
+0 : 5
+first_name : JOHNNY
+1 : JOHNNY
+last_name : LOLLOBRIGIDA
+2 : LOLLOBRIGIDA
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 6
+0 : 6
+first_name : BETTE
+1 : BETTE
+last_name : NICHOLSON
+2 : NICHOLSON
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 7
+0 : 7
+first_name : GRACE
+1 : GRACE
+last_name : MOSTEL
+2 : MOSTEL
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 8
+0 : 8
+first_name : MATTHEW
+1 : MATTHEW
+last_name : JOHANSSON
+2 : JOHANSSON
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 9
+0 : 9
+first_name : JOE
+1 : JOE
+last_name : SWANK
+2 : SWANK
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 10
+0 : 10
+first_name : CHRISTIAN
+1 : CHRISTIAN
+last_name : GABLE
+2 : GABLE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 11
+0 : 11
+first_name : ZERO
+1 : ZERO
+last_name : CAGE
+2 : CAGE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 12
+0 : 12
+first_name : KARL
+1 : KARL
+last_name : BERRY
+2 : BERRY
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 13
+0 : 13
+first_name : UMA
+1 : UMA
+last_name : WOOD
+2 : WOOD
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 14
+0 : 14
+first_name : VIVIEN
+1 : VIVIEN
+last_name : BERGEN
+2 : BERGEN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 15
+0 : 15
+first_name : CUBA
+1 : CUBA
+last_name : OLIVIER
+2 : OLIVIER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 16
+0 : 16
+first_name : FRED
+1 : FRED
+last_name : COSTNER
+2 : COSTNER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 17
+0 : 17
+first_name : HELEN
+1 : HELEN
+last_name : VOIGHT
+2 : VOIGHT
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 18
+0 : 18
+first_name : DAN
+1 : DAN
+last_name : TORN
+2 : TORN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 19
+0 : 19
+first_name : BOB
+1 : BOB
+last_name : FAWCETT
+2 : FAWCETT
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 20
+0 : 20
+first_name : LUCILLE
+1 : LUCILLE
+last_name : TRACY
+2 : TRACY
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 21
+0 : 21
+first_name : KIRSTEN
+1 : KIRSTEN
+last_name : PALTROW
+2 : PALTROW
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 22
+0 : 22
+first_name : ELVIS
+1 : ELVIS
+last_name : MARX
+2 : MARX
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 23
+0 : 23
+first_name : SANDRA
+1 : SANDRA
+last_name : KILMER
+2 : KILMER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 24
+0 : 24
+first_name : CAMERON
+1 : CAMERON
+last_name : STREEP
+2 : STREEP
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 25
+0 : 25
+first_name : KEVIN
+1 : KEVIN
+last_name : BLOOM
+2 : BLOOM
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 26
+0 : 26
+first_name : RIP
+1 : RIP
+last_name : CRAWFORD
+2 : CRAWFORD
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 27
+0 : 27
+first_name : JULIA
+1 : JULIA
+last_name : MCQUEEN
+2 : MCQUEEN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 28
+0 : 28
+first_name : WOODY
+1 : WOODY
+last_name : HOFFMAN
+2 : HOFFMAN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 29
+0 : 29
+first_name : ALEC
+1 : ALEC
+last_name : WAYNE
+2 : WAYNE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 30
+0 : 30
+first_name : SANDRA
+1 : SANDRA
+last_name : PECK
+2 : PECK
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 31
+0 : 31
+first_name : SISSY
+1 : SISSY
+last_name : SOBIESKI
+2 : SOBIESKI
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 32
+0 : 32
+first_name : TIM
+1 : TIM
+last_name : HACKMAN
+2 : HACKMAN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 33
+0 : 33
+first_name : MILLA
+1 : MILLA
+last_name : PECK
+2 : PECK
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 34
+0 : 34
+first_name : AUDREY
+1 : AUDREY
+last_name : OLIVIER
+2 : OLIVIER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 35
+0 : 35
+first_name : JUDY
+1 : JUDY
+last_name : DEAN
+2 : DEAN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 36
+0 : 36
+first_name : BURT
+1 : BURT
+last_name : DUKAKIS
+2 : DUKAKIS
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 37
+0 : 37
+first_name : VAL
+1 : VAL
+last_name : BOLGER
+2 : BOLGER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 38
+0 : 38
+first_name : TOM
+1 : TOM
+last_name : MCKELLEN
+2 : MCKELLEN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 39
+0 : 39
+first_name : GOLDIE
+1 : GOLDIE
+last_name : BRODY
+2 : BRODY
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 40
+0 : 40
+first_name : JOHNNY
+1 : JOHNNY
+last_name : CAGE
+2 : CAGE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 41
+0 : 41
+first_name : JODIE
+1 : JODIE
+last_name : DEGENERES
+2 : DEGENERES
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 42
+0 : 42
+first_name : TOM
+1 : TOM
+last_name : MIRANDA
+2 : MIRANDA
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 43
+0 : 43
+first_name : KIRK
+1 : KIRK
+last_name : JOVOVICH
+2 : JOVOVICH
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 44
+0 : 44
+first_name : NICK
+1 : NICK
+last_name : STALLONE
+2 : STALLONE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 45
+0 : 45
+first_name : REESE
+1 : REESE
+last_name : KILMER
+2 : KILMER
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 46
+0 : 46
+first_name : PARKER
+1 : PARKER
+last_name : GOLDBERG
+2 : GOLDBERG
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 47
+0 : 47
+first_name : JULIA
+1 : JULIA
+last_name : BARRYMORE
+2 : BARRYMORE
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 48
+0 : 48
+first_name : FRANCES
+1 : FRANCES
+last_name : DAY-LEWIS
+2 : DAY-LEWIS
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 49
+0 : 49
+first_name : ANNE
+1 : ANNE
+last_name : CRONYN
+2 : CRONYN
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
+actor_id : 50
+0 : 50
+first_name : NATALIE
+1 : NATALIE
+last_name : HOPKINS
+2 : HOPKINS
+last_update : 2006-02-15 04:34:33
+3 : 2006-02-15 04:34:33
+
